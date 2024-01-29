@@ -1,0 +1,29 @@
+databases:
+  - name: Cologne Database for Molecular Spectroscopy (CDMS)
+    url: "https://cdms.astro.uni-koeln.de/"
+    description: "tbd"
+
+  - name: Jet Propulsion Laboratory (JPL) database
+    url: "https://spec.jpl.nasa.gov/ftp/pub/catalog/catdir.html"
+    description: "tbd"
+
+  - name: Splatalogue
+    url: "https://splatalogue.online/"
+    description: "tbd"    
+
+
+software:
+  - name: Open source Raman software with code available at Github
+    url: "https://github.com/orgs/allthingsraman/repositories" 
+    description: "Forks of Github repositories of open source Raman related software."
+
+  - name: GEPARD
+    url: "https://gitlab.ipfdd.de/GEPARD/gepard" 
+    description: "GEPARD - Gepard-Enabled PARticle Detection for Raman microscopes."
+
+  - name: RamApp
+    url: "https://ramapp.io/" 
+    description: "RamApp, a modern hyperspectral imaging toolbox for processing and analysis"
+
+    
+  
